@@ -2,6 +2,11 @@
 
 Welcome! This is a digital archive of the 2025 km-Scale Hackathon oraganized by the World Climate Resarch Program Digital Earths Lighthouse Activity. The Hackathon was held at over 9 phyiscal nodes around the world with over 700 participants from May 12-17th 2025.
 
+When publishing work based on the hackathon simulations, catalog and tools, please provide acknowledgements for the model simulations (see model pages) as well as the ackhnowledgement:
+
+*“This work was in part made possible by the WCRP Digital Earth’s 2025 km-scale Hackathon" and use the DOI.*
+
+
 The [Hackathon Website](https://digital-earths-global-hackathon.github.io/hk25/) contains information about:
 -  The model [simulations](https://digital-earths-global-hackathon.github.io/hk25/simulations/)
 - The cross-node [data catalog](https://digital-earths-global-hackathon.github.io/catalog/) that was developed
